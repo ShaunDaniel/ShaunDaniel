@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## hello! 👋 i'm shaun. 
+### let's build something together!
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2049%20mins-blue)
 
