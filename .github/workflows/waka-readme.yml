@@ -1,10 +1,9 @@
 name: Profile Readme Development Stats
-uses: anmol098/waka-readme-stats@v4
 
 on:
   schedule:
-    # Runs at 12:04am IST
-    - cron: '34 18 * * *'
+    # Runs at 12:00am IST
+    - cron: '30 18 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
