@@ -1,6 +1,8 @@
 ## hello! 👋 i'm shaun. 
 ### let's build something together!
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2040%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm a Night 🦉** 
@@ -67,5 +69,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ShaunDaniel/ShaunDaniel/main/assets/bar_graph.png)
 
 
- Last Updated on 24/05/2025 05:10:18 UTC
+ Last Updated on 24/05/2025 18:43:59 UTC
 <!--END_SECTION:waka-->
