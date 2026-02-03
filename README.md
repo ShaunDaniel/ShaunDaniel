@@ -1,7 +1,48 @@
 ## hello! 👋 i'm shaun. 
 ### let's build something together!
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-484%20hrs%207%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1389 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+🌆 Daytime                3493 commits        ██████████░░░░░░░░░░░░░░░   38.48 % 
+🌃 Evening                2568 commits        ███████░░░░░░░░░░░░░░░░░░   28.29 % 
+🌙 Night                  1628 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   1329 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Tuesday                  1424 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Wednesday                1162 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Thursday                 1318 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Friday                   1190 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Saturday                 1409 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Sunday                   1246 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -20,5 +61,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ShaunDaniel/ShaunDaniel/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2026 18:59:34 UTC
+ Last Updated on 03/02/2026 19:26:00 UTC
 <!--END_SECTION:waka-->
