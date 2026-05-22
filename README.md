@@ -1,8 +1,6 @@
 ## hello! 👋 i'm shaun. 
 ### let's build something together!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-484%20hrs%207%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -61,5 +59,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ShaunDaniel/ShaunDaniel/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2026 20:22:58 UTC
+ Last Updated on 22/05/2026 20:20:37 UTC
 <!--END_SECTION:waka-->
