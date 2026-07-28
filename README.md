@@ -1,56 +1,7 @@
 ## hello! 👋 i'm shaun. 
 ### let's build something together!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-481%20hrs%2024%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2011%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2380 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-🌆 Daytime                6171 commits        █████████░░░░░░░░░░░░░░░░   37.87 % 
-🌃 Evening                4847 commits        ███████░░░░░░░░░░░░░░░░░░   29.75 % 
-🌙 Night                  2896 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   2284 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Tuesday                  2580 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Wednesday                1928 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Thursday                 2553 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-Friday                   2116 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Saturday                 2552 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Sunday                   2281 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
 
 **I Mostly Code in JavaScript** 
 
@@ -69,5 +20,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ShaunDaniel/ShaunDaniel/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 20:07:08 UTC
+ Last Updated on 28/07/2026 20:04:10 UTC
 <!--END_SECTION:waka-->
